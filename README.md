@@ -12,3 +12,5 @@ http://classcharts-cors-proxy.netlify.app/student-client?loginID={student-classc
 
 ## Contribute
 If you have any suggestions, bugs or ideas to improve my typescript code (I don't understand the type system properly) then please open a PR or issue or contact me (see email on my github profile).
+
+This entire thing is simply a wrapper around https://github.com/classchartsapi/classcharts-api-js so thanks to all the contributors there for making this possible.
