@@ -8,7 +8,7 @@ This should be deployed to netlify, I have an instance running at https://classc
 ## Usage
 Deploy to netlify, and then see below for reference (these URLs use the classcharts-cors-proxy.netlify.app instance, you should replace this with your own instance)
 
-http://classcharts-cors-proxy.netlify.app/student-client?loginID={student classchart login}&dob={date of birth in dd/mm/yyyy}&command={command as it is called in the classcharts-api-js deno module}&args={any arguments that go into the function}
+http://classcharts-cors-proxy.netlify.app/student-client?loginID={student-classcharts-login}&dob={date-of-birth-in-dd/mm/yyyy}&command={command-as-it-is-called-in-the-classcharts-api-js-deno-module}&args={any-arguments-that-go-into-the-function}
 
 ## Contribute
 If you have any suggestions, bugs or ideas to improve my typescript code (I don't understand the type system properly) then please open a PR or issue or contact me (see email on my github profile).
